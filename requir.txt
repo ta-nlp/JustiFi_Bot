@@ -1,0 +1,16 @@
+langchain 
+faiss-cpu 
+pypdf 
+python-docx 
+langchain_community 
+transformers 
+rank_bm25 
+numpy 
+sentence_transformers 
+pydantic 
+together 
+python-telegram-bot 
+python-dotenv 
+ollama 
+langchain_together
+telegram
