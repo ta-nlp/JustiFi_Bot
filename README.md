@@ -1,9 +1,10 @@
-Steps to run Telegram bot locally:
+# Steps to Run Telegram Bot Locally
 
+```bash
 1. Clone the Repository
-Open a terminal and run:
-  git clone https://github.com/smanav00/JustiFi_bot
-  cd JustiFi_bot
+   Open a terminal and run:
+	git clone https://github.com/smanav00/JustiFi_bot
+	cd JustiFi_bot
 
 2. Create a Python Virtual Environment (Optional but Recommended) 
   python -m venv venv
@@ -22,7 +23,7 @@ You need to create your own Telegram bot using BotFather:
   4.	BotFather will give you an API token like: "123456789:ABCdefGhIJKlmNoPQRstuVWxyZ"
 
 
-5.	Replace the token in your code. Look for a line in the bot script like:
+5.Replace the token in your code. Look for a line in the bot script like:
   TELEGRAM_BOT_TOKEN = "YOUR_BOTFATHER_API_KEY"
 Replace "YOUR_BOTFATHER_API_KEY" with the token you got from BotFather.
       
