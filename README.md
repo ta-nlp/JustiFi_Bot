@@ -3,7 +3,7 @@
 ```bash
 1. Clone the Repository
    Open a terminal and run:
-	git clone https://github.com/smanav00/JustiFi_bot
+	git clone https://github.com/ta-nlp/JustiFi_bot
 	cd JustiFi_bot
 
 2. Create a Python Virtual Environment (Optional but Recommended) 
