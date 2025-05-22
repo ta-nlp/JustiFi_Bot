@@ -23,8 +23,8 @@ You need to create your own Telegram bot using BotFather:
   4.	BotFather will give you an API token like: "123456789:ABCdefGhIJKlmNoPQRstuVWxyZ"
 
 
-5.Replace the token in your code. Look for a line in the bot script like:
-  TELEGRAM_BOT_TOKEN = "YOUR_BOTFATHER_API_KEY"
+5.Replace the token in your code. Look for a line in the telegram_bot_multiuser.py script like:
+  token = "YOUR_BOTFATHER_API_KEY"
 Replace "YOUR_BOTFATHER_API_KEY" with the token you got from BotFather.
       
 6. Run the Bot
